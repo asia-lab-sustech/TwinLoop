@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<additional>
+  <poi id="server0" x="250.00" y="250.00" type="rsu" color="red" layer="100" desc="RSU"/>
+  <poi id="server1" x="750.00" y="250.00" type="rsu" color="red" layer="100" desc="RSU"/>
+  <poi id="server2" x="1250.00" y="250.00" type="rsu" color="red" layer="100" desc="RSU"/>
+  <poi id="server3" x="1750.00" y="250.00" type="rsu" color="red" layer="100" desc="RSU"/>
+  <poi id="server4" x="250.00" y="750.00" type="rsu" color="red" layer="100" desc="RSU"/>
+  <poi id="server5" x="750.00" y="750.00" type="rsu" color="red" layer="100" desc="RSU"/>
+  <poi id="server6" x="1250.00" y="750.00" type="rsu" color="red" layer="100" desc="RSU"/>
+  <poi id="server7" x="1750.00" y="750.00" type="rsu" color="red" layer="100" desc="RSU"/>
+  <poi id="server8" x="250.00" y="1250.00" type="rsu" color="red" layer="100" desc="RSU"/>
+  <poi id="server9" x="750.00" y="1250.00" type="rsu" color="red" layer="100" desc="RSU"/>
+  <poi id="server10" x="1250.00" y="1250.00" type="rsu" color="red" layer="100" desc="RSU"/>
+  <poi id="server11" x="1750.00" y="1250.00" type="rsu" color="red" layer="100" desc="RSU"/>
+  <poi id="server12" x="250.00" y="1750.00" type="rsu" color="red" layer="100" desc="RSU"/>
+  <poi id="server13" x="750.00" y="1750.00" type="rsu" color="red" layer="100" desc="RSU"/>
+  <poi id="server14" x="1250.00" y="1750.00" type="rsu" color="red" layer="100" desc="RSU"/>
+  <poi id="server15" x="1750.00" y="1750.00" type="rsu" color="red" layer="100" desc="RSU"/>
+</additional>

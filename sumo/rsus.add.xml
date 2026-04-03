@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<additional>
+    <poi id="rsu0"  x="250"  y="250"  type="rsu" color="red" layer="100" imgFile="antenna.png" width="20" height="20"/>
+    <poi id="rsu1"  x="750"  y="250"  type="rsu" color="red" layer="100" imgFile="antenna.png" width="20" height="20"/>
+    <poi id="rsu2"  x="1250" y="250"  type="rsu" color="red" layer="100" imgFile="antenna.png" width="20" height="20"/>
+    <poi id="rsu3"  x="1750" y="250"  type="rsu" color="red" layer="100" imgFile="antenna.png" width="20" height="20"/>
+    
+    <poi id="rsu4"  x="250"  y="750"  type="rsu" color="red" layer="100" imgFile="antenna.png" width="20" height="20"/>
+    <poi id="rsu5"  x="750"  y="750"  type="rsu" color="red" layer="100" imgFile="antenna.png" width="20" height="20"/>
+    <poi id="rsu6"  x="1250" y="750"  type="rsu" color="red" layer="100" imgFile="antenna.png" width="20" height="20"/>
+    <poi id="rsu7"  x="1750" y="750"  type="rsu" color="red" layer="100" imgFile="antenna.png" width="20" height="20"/>
+    
+    <poi id="rsu8"  x="250"  y="1250" type="rsu" color="red" layer="100" imgFile="antenna.png" width="20" height="20"/>
+    <poi id="rsu9"  x="750"  y="1250" type="rsu" color="red" layer="100" imgFile="antenna.png" width="20" height="20"/>
+    <poi id="rsu10" x="1250" y="1250" type="rsu" color="red" layer="100" imgFile="antenna.png" width="20" height="20"/>
+    <poi id="rsu11" x="1750" y="1250" type="rsu" color="red" layer="100" imgFile="antenna.png" width="20" height="20"/>
+    
+    <poi id="rsu12" x="250"  y="1750" type="rsu" color="red" layer="100" imgFile="antenna.png" width="20" height="20"/>
+    <poi id="rsu13" x="750"  y="1750" type="rsu" color="red" layer="100" imgFile="antenna.png" width="20" height="20"/>
+    <poi id="rsu14" x="1250" y="1750" type="rsu" color="red" layer="100" imgFile="antenna.png" width="20" height="20"/>
+    <poi id="rsu15" x="1750" y="1750" type="rsu" color="red" layer="100" imgFile="antenna.png" width="20" height="20"/>
+</additional>

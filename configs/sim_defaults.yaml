@@ -1,0 +1,66 @@
+# configs/sim_defaults.yaml
+# baseline 50车
+server_rates:
+  - 2.0e9
+  - 2.0e9
+  - 2.0e9
+  - 2.0e9
+  - 3.5e9
+  - 3.5e9
+  - 3.5e9
+  - 3.5e9
+  - 3.5e9
+  - 3.5e9
+  - 3.5e9
+  - 3.5e9
+  - 2.5e9
+  - 2.5e9
+  - 2.5e9
+  - 2.5e9
+
+car_local_rate_range: [8e8, 12e8]
+
+channel:
+  tx_power_dbm: 30.0
+  noise_power_w: 1e-13
+  path_loss_alpha: 4.0
+  bandwidth_hz: 1.0e6
+  ref_dist_m: 1.0
+
+arrival:
+  type: exponential
+  mean: 8
+
+task_templates:
+  - name: offload_medium
+    demand_mean: 7.0e9
+    demand_std:  4.0e8
+    data_mean:   8.0e5
+    data_std:    2.0e5
+  - name: boundary_A
+    demand_mean: 5.0e9
+    demand_std:  1.0e9
+    data_mean:   8.0e6
+    data_std:    2.0e6
+  - name: boundary_B
+    demand_mean: 6.2e9
+    demand_std:  1.5e8
+    data_mean:   7.5e6
+    data_std:    1.0e6
+  - name: boundary_C
+    demand_mean: 4.0e9
+    demand_std:  1.0e9
+    data_mean:   6.0e6
+    data_std:    1.0e6
+  - name: light_local
+    demand_mean: 1.0e9
+    demand_std:  2.0e8
+    data_mean:   1.0e7
+    data_std:    2.0e6
+  - name: navigation
+    demand_mean: 1.0e10
+    demand_std:  2.0e9
+    data_mean:   5.0e5
+    data_std:    1.0e5
+
+task_template_weights: [2, 3, 3, 3, 6, 6]

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+            <configuration>
+                <input>
+                    <net-file value="city_2km.net.xml"/>
+                    <route-files value="dt_heterogeneous.rou.xml"/>
+                    <additional-files value="rsu.add.xml"/>
+                </input>
+                <time>
+                    <begin value="0"/>
+                    <step-length value="1.0"/>
+                </time>
+                <report>
+                    <verbose value="false"/>
+                    <no-warnings value="true"/>
+                </report>
+            </configuration>

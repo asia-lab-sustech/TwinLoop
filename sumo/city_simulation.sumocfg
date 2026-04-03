@@ -1,0 +1,17 @@
+<configuration>
+    <input>
+        <net-file value="city_2km.net.xml"/>
+        <route-files value="vehicles_2km.rou.xml"/>
+        <additional-files value="rsus.add.xml"/>
+    </input>
+
+    <time>
+        <begin value="0"/>
+        <end value="6600"/>
+        <step-length value="0.5"/>
+    </time>
+
+    <processing>
+        <time-to-teleport value="-1"/>
+    </processing>
+</configuration>
